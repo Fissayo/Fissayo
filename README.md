@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fissayo
-- 👀 I’m interested in Python, Data Science and Analytics
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on python and data science projects
-- 📫 How to reach me; @Fisayo Ajisafe(Facebook),  @fisayo_ajisafe(Twitter)
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning a lot of things.
+- 💞️ I’m looking to network and collaborate on projects on here.
+- 📫 How to reach me; @_fisayoo_ (Instagram), @fisayo_ajisafe(Twitter)
 
 
 <!---
