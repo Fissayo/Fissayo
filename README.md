@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to network and collaborate on projects on here.
-- 📫 How to reach me; @ _fisayoo_ (Instagram), @fisayo_ajisafe(Twitter)
+- 📫 How to reach me; @Fisayo Ajisafe(LinkedIn), @fisayo_ajisafe(Twitter)
 
 
 <!---
