@@ -1,7 +1,6 @@
 - 👋 Hello, I’m @Fissayo
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Power BI, advanced Microsoft Excel and more Python libraries
-- 💞️ I’m looking to network and collaborate on projects on here.
+- 🌱 I’m currently learning advanced Microsoft Excel and more Python libraries
+- 💞️ I’m looking to network and collaborate on projects here.
 - 📫 How to reach me; @Fisayo Ajisafe(LinkedIn), @fisayo_ajisafe(Twitter)
 
 
